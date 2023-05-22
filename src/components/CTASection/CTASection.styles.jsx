@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 export const CTA = styled.section`
-  background-image: url('../../public/images/desktop/image-footer.jpg');
+  background-image: url('./images/desktop/image-footer.jpg');
   background-size: cover;
   background-position: center;
   position: relative;
