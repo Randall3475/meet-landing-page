@@ -8,9 +8,6 @@ const GlobalStyle = createGlobalStyle`
   *, *::before, *::after {
   box-sizing: border-box;
   }
-  html {
-    color-scheme: dark light;
-  }
   html, body {
     font-family: Red Hat Display, sans-serif;
     font-size: 10px;
