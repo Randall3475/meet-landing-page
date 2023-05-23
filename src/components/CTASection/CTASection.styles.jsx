@@ -7,7 +7,7 @@ export const CTA = styled.section`
   padding-top: 116px;
   padding-bottom: 104px;
   margin-top: -2.8rem;
-  z-index: -2;
+  z-index: 2;
   &:before {
     content: '';
     position: absolute;
