@@ -12,7 +12,7 @@ const GlobalStyle = createGlobalStyle`
     font-family: Red Hat Display, sans-serif;
     font-size: 10px;
     min-height: 100vh;
-    overflow-x: hidden
+    overflow-x: hidden;
     background-color: #F2F2F2;
   }
   img, picture, svg, video {
