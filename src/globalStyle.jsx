@@ -13,6 +13,7 @@ const GlobalStyle = createGlobalStyle`
     font-size: 10px;
     min-height: 100vh;
     overflow-x: hidden
+    background-color: #F2F2F2;
   }
   img, picture, svg, video {
     display: block;
